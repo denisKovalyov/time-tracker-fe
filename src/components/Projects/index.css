@@ -1,0 +1,14 @@
+.projectsContainer {
+    width: 100%;
+    display: block;
+}
+
+.panel {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.tableWrapper {
+    padding: 16px 0;
+}

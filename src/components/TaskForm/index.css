@@ -1,0 +1,24 @@
+.form {
+    padding-top: 16px;
+}
+
+.formFooter {
+    padding: 8px 0 0 0;
+    margin: 0;
+    width: 100%;
+}
+
+.formFooter .ant-row {
+    width: 100%;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.formFooter .ant-form-item-control-input-content {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.ant-modal .ant-modal-footer {
+    margin: 0;
+}

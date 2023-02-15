@@ -1,0 +1,13 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+}
+
+.header > * {
+    flex: none;
+}
+
+.menu {
+    min-width: 0;
+    flex: auto;
+}

@@ -1,0 +1,9 @@
+.container {
+    display: flex;
+    align-items: center;
+}
+
+.name {
+    color: #fff;
+    margin-left: 5px;
+}
